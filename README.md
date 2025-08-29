@@ -1,1 +1,1 @@
-# Exploration-of-ViT-and-CNN-for-Medical-Image-Processing
+# CNN vs ViT in Medical Imaging
