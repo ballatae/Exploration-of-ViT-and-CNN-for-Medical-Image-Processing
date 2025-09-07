@@ -1,9 +1,9 @@
 {
   "dataset": "bloodcells",
-  "model": "resnet18",
+  "model": "cls_bloodcells_resnet18",
   "num_classes": 5,
-  "test_macro_auroc": 0.9983900189399719,
-  "test_accuracy": 0.9933333333333333,
+  "test_macro_auroc": 0.9983999133110046,
+  "test_accuracy": 0.9933333396911621,
   "classification_report": {
     "basophil": {
       "precision": 0.9933333333333333,
