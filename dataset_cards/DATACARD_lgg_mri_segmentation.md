@@ -6,6 +6,7 @@
 **Associated Publication / Use:**  
 “Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm” (Buda, Saha, Mazurowski) :contentReference[oaicite:2]{index=2}  
 **Last Updated / Version Info:** 6 years ago
+**License:** *[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*  
 
 ---
 
@@ -73,9 +74,6 @@ It is intended for medical image segmentation tasks (pixel-level segmentation).
 ---
 
 ## Citation  
-
-If you use this dataset, please cite:
-
 > Buda, Mateusz, Ashirbani Saha, Maciej A. Mazurowski, *“Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm”*.  
 > Dataset: LGG MRI Segmentation (Kaggle). Available at: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation :contentReference[oaicite:13]{index=13}  
 > Also see: [GitHub – brain-segmentation-pytorch] (U-Net implementation) :contentReference[oaicite:14]{index=14}  
