@@ -15,13 +15,8 @@ This dataset contains peripheral blood smear (PBS) images from patients suspecte
 
 ## Data Characteristics  
 
-- **Total images:** 3,256 images :contentReference[oaicite:3]{index=3}  
+- **Total images:** 15,114 images :contentReference[oaicite:3]{index=3}  
 - **Number of patients / sources:** 89 suspected ALL patients :contentReference[oaicite:4]{index=4}  
-- **Classes / Labels:**  
-  - Class 0: Benign (non-ALL) — 504 images :contentReference[oaicite:5]{index=5}  
-  - Class 1: Early malignant — 985 images :contentReference[oaicite:6]{index=6}  
-  - Class 2: Pre malignant — 963 images :contentReference[oaicite:7]{index=7}  
-  - Class 3: Pro malignant — 804 images :contentReference[oaicite:8]{index=8}  
 - **Image format / modality:** PBS (microscopic) images; format: JPG (from description) :contentReference[oaicite:9]{index=9}  
 - **Resolution / channels:** (Not explicitly documented; likely RGB color images)  
 - **Preprocessing / augmentation in published work:** Data augmentation (horizontal / vertical flips, 90° rotation) to balance classes to 1,500 images each in some studies :contentReference[oaicite:10]{index=10}  
