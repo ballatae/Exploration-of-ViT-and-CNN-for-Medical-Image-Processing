@@ -33,7 +33,7 @@ This dataset contains peripheral blood smear (PBS) images from patients suspecte
 
 ## Strengths & Benefits  
 
-- Relatively large dataset (3,256 images) with multiclass labels  
+- Relatively large dataset (15,114 images) with multiclass labels  
 - Captures more granular stages of ALL (beyond just binary)  
 - Widely used in literature for ALL classification tasks :contentReference[oaicite:11]{index=11}  
 
