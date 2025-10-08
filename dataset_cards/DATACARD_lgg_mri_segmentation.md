@@ -48,8 +48,7 @@ It is intended for medical image segmentation tasks (pixel-level segmentation).
 ## Limitations & Risks  
 
 - Lack of detailed metadata on imaging acquisition (scanner type, magnetic field strength, protocol)  
-- The pruning / removal of some images may introduce selection bias  
-- The dataset size (≈ 2,470 image pairs) may still be modest for very deep architectures  
+- The pruning / removal of some images may introduce selection bias 
 - Class imbalance: region vs background dominance (very large non-tumor regions)  
 - Generalization risk: models may not generalize to other MRI protocols / institutions  
 
