@@ -20,7 +20,7 @@ It is intended for medical image segmentation tasks (pixel-level segmentation).
 
 - **Modalities / Imaging Type:** Magnetic Resonance Imaging (MRI), FLAIR sequence (fluid-attenuated inversion recovery) :contentReference[oaicite:4]{index=4}  
 - **Data Source / Patients:** Derived from The Cancer Imaging Archive (TCIA) / TCGA’s LGG collection; includes ~110 patients :contentReference[oaicite:5]{index=5}  
-- **Number of images & masks:** ~3,929 image–mask pairs are used after pruning :contentReference[oaicite:6]{index=6}  
+- **Number of images & masks:** ~7,858 image–mask pairs are used after pruning :contentReference[oaicite:6]{index=6}  
 - **Image format, size, channels:** RGB (3 channels), 256×256 pixels for MRI images; masks are single-channel, same resolution :contentReference[oaicite:7]{index=7}  
 - **Mask / Annotation:** Manual segmentation masks delineating abnormal FLAIR region (tumor / lesion) :contentReference[oaicite:8]{index=8}  
 - **Preprocessing / Pruning:** Some MRI images with little information (e.g. blank images) were manually removed / pruned from original dataset to improve quality :contentReference[oaicite:9]{index=9}  
