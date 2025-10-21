@@ -1,0 +1,21 @@
+{
+  "dataset": "leukemia",
+  "model": "vit_tiny_patch16_224",
+  "num_classes": 2,
+  "test_macro_auroc": 0.6270,
+  "test_accuracy": 0.7869,
+  "classification_report": {
+    "all": {
+      "precision": 0.719603,
+      "recall": 0.951600,
+      "f1-score": 0.819498,
+      "support": 1219.0
+    },
+    "hem": {
+      "precision": 0.768627,
+      "recall": 0.302469,
+      "f1-score": 0.434109,
+      "support": 648.0
+    }
+  }
+}

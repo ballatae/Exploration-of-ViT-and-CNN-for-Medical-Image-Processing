@@ -1,0 +1,21 @@
+{
+  "dataset": "leukemia",
+  "model": "resnet18",
+  "num_classes": 2,
+  "test_macro_auroc": 0.5,
+  "test_accuracy": 0.6529191215854312,
+  "classification_report": {
+    "all": {
+      "precision": 0.6529191215854312,
+      "recall": 1.0,
+      "f1-score": 0.7900194426441997,
+      "support": 1219.0
+    },
+    "hem": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 648.0
+    }
+  }
+}
